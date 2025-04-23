@@ -2,9 +2,9 @@
 
 Sou estudante de programação e tenho trilhado meu caminho de estudos com muito empenho e dedicação afim de me estabelecer no mercado de trabalho, dentro de uma empresa onde existam possibilidades de aprendizado e crescimento pessoal.
 
-Recentemente, iniciei meus estudos na área de FRONT END,iniciei também no curso de TECNOLOGIA EM SISTEMAS DE COMPUTAÇÃO PELA UFF.
 
-Sou determinada, comunicativa e estou em busca de estágio.
+
+
 
 ### Estudando atualmente HTML,CSS,JS 🔥
 
